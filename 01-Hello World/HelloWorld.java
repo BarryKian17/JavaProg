@@ -8,5 +8,12 @@ public class HelloWorld {
     public static void main(String[] args)
     {
         System.out.println("Hello, World");
+                System.out.println("My name is Kaung Set Linn");
+
+                System.out.println("Course name- Object-oriented programming in java 1");
+
+                System.out.println("Course code - CSC200A");
+        System.out.println("Lecture name - Sathish Sarma");
+
     }
 }
